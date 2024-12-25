@@ -85,6 +85,9 @@
 #cboxClose{position:absolute; top:5px; right:5px; display:block; background:url(../images/colorbox/controls.png) no-repeat top center; width:38px; height:19px; text-indent:-9999px;}
 #cboxClose:hover{background-position:bottom center;}
 
+.highlight {
+  color: rgb(122, 33, 33); /* Choose your desired color for N and C */
+}
 
 /* AOS  */
 
